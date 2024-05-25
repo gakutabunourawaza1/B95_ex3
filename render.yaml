@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: B95_ex3
+    name: misamisa
     env: python
     region: Oregon
     plan: free
